@@ -1,0 +1,18 @@
+.titulo{
+  font-size: 25px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.hola h1{
+  font-size: 25px;
+
+}
+
+.btn{
+  background-color:beige;
+  border-color: beige;
+  margin: 20px;
+  padding: 10px;
+}
